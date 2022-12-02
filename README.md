@@ -1,2 +1,2 @@
 # binance-web-socket-data-scraper
-In this example, the websocket will connect to the Binance API and listen for 5 minute candlestick data for the BNBBTC symbol. The process_message() function will be called every time new data is received, and you can use this function to process the data as needed.
+En este ejemplo, el websocket se conectará a la API de Binance y escuchará datos de velas de 5 minutos para el símbolo BNBBTC. La función process_message() será llamada cada vez que se reciban nuevos datos, y puedes usar esta función para procesar los datos según sea necesario.
